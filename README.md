@@ -39,4 +39,5 @@ To run this project locally:
 3. Open index.html in your preferred web browser.
 
 ## Live Demo
-You can view the live version of the project here.
+You can view the live version of the project [here](https://shounbiju.github.io/World-Date-and-Time/)
+
